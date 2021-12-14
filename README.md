@@ -1,122 +1,16 @@
-Contribution: 2020-02-26 20:00
+# Auction
 
-Contribution: 2020-02-26 20:01
+this is an auction program build on Solana
 
-Contribution: 2020-02-26 20:02
+## Getting Started
 
-Contribution: 2020-02-26 20:03
+### Installing
 
-Contribution: 2020-02-27 20:00
+this project is based on [anchor](https://github.com/project-serum/anchor), follow the [steps](https://project-serum.github.io/anchor/getting-started/installation.html) to install.
 
-Contribution: 2020-02-27 20:01
+### Test
 
-Contribution: 2020-02-28 20:00
-
-Contribution: 2020-02-28 20:01
-
-Contribution: 2020-02-28 20:02
-
-Contribution: 2020-02-28 20:03
-
-Contribution: 2020-02-28 20:04
-
-Contribution: 2020-02-28 20:05
-
-Contribution: 2020-02-28 20:06
-
-Contribution: 2020-02-28 20:07
-
-Contribution: 2020-02-28 20:08
-
-Contribution: 2020-02-29 20:00
-
-Contribution: 2020-02-29 20:01
-
-Contribution: 2020-02-29 20:02
-
-Contribution: 2020-03-01 20:00
-
-Contribution: 2020-03-03 20:00
-
-Contribution: 2020-03-03 20:01
-
-Contribution: 2020-03-04 20:00
-
-Contribution: 2020-03-04 20:01
-
-Contribution: 2020-03-04 20:02
-
-Contribution: 2020-03-04 20:03
-
-Contribution: 2020-03-04 20:04
-
-Contribution: 2020-03-06 20:00
-
-Contribution: 2020-03-06 20:01
-
-Contribution: 2020-03-06 20:02
-
-Contribution: 2020-03-06 20:03
-
-Contribution: 2020-03-06 20:04
-
-Contribution: 2020-03-06 20:05
-
-Contribution: 2020-03-06 20:06
-
-Contribution: 2020-03-06 20:07
-
-Contribution: 2020-03-06 20:08
-
-Contribution: 2020-03-06 20:09
-
-Contribution: 2020-03-07 20:00
-
-Contribution: 2020-03-07 20:01
-
-Contribution: 2020-03-07 20:02
-
-Contribution: 2020-03-07 20:03
-
-Contribution: 2020-03-07 20:04
-
-Contribution: 2020-03-09 20:00
-
-Contribution: 2020-03-09 20:01
-
-Contribution: 2020-03-09 20:02
-
-Contribution: 2020-03-09 20:03
-
-Contribution: 2020-03-09 20:04
-
-Contribution: 2020-03-09 20:05
-
-Contribution: 2020-03-09 20:06
-
-Contribution: 2020-03-09 20:07
-
-Contribution: 2020-03-09 20:08
-
-Contribution: 2020-03-09 20:09
-
-Contribution: 2020-03-13 20:00
-
-Contribution: 2020-03-13 20:01
-
-Contribution: 2020-03-13 20:02
-
-Contribution: 2020-03-13 20:03
-
-Contribution: 2020-03-13 20:04
-
-Contribution: 2020-03-13 20:05
-
-Contribution: 2020-03-13 20:06
-
-Contribution: 2020-03-13 20:07
-
-Contribution: 2020-03-13 20:08
-
-Contribution: 2020-03-14 20:00
+```
+anchor test
+```
 
